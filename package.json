@@ -9,6 +9,7 @@
   "author": "Murat Fatih Yanik",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^9.6.1"
+    "cypress": "^9.6.1",
+    "cypress-xpath": "^1.6.2"
   }
 }
